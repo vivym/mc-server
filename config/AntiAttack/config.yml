@@ -1,0 +1,40 @@
+Versioning: 323
+HandShakeLimitor:
+  enable: true
+  PerIPSecondLimit: 3
+PacketCheck:
+  AntiFastPacketAttack:
+    KickMessage: §c你是有可能是压测机器人!请重新登录!§b[PCAFPA]
+    enable: true
+    PerTypeSecondLimit: 75
+    PerTypeSecondKick: 150
+AntiAttack:
+  PluginPrefix: §a[AntiAttack]
+  Boardcast: true
+  AutoUpdate: true
+AntiKickAttack:
+  DenyMessage: §c有一个同名玩家已经在线了!§b[AKA]
+  enable: true
+AntiPingAttack:
+  PerIPInterval: 500
+  TotalInterval: 50
+  enable: true
+AntiFastJoin:
+  Interval: 4000
+  DenyMessage: §c你加入过于频繁了!请稍等几秒!§b[AFJ]
+  enable: true
+RestrictMode:
+  DenyMessage: §c服务器遭到集群压测,请稍等再登录!§b[RM]
+  CountPeriod: 5
+  enable: true
+  CountLimit: 1
+AntiProxyIP:
+  enable: true
+AntiTabCompleteAttack:
+  PerIPInterval: 1000
+  enable: true
+  TotalInterval: 100
+AntiMOTDAttack:
+  enable: true
+  PerIP5sLimit: 10
+  Total5sLimit: 100
