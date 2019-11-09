@@ -1,4 +1,5 @@
 /.mixin.out
+/backups
 /crash-reports
 /CustomSkinLoader
 /journeymap
@@ -15,7 +16,16 @@
 /snapshots-server
 /structures
 /structurize
+/tmp
+/world
 
 /*.log
 /*.dll
+/*.so
 /*.json
+/*.zip
+
+/config/flexiblelogin/database.mv.db
+/config/prism/prism.mv.db
+/config/serverlistplus/PlayerCache.json
+

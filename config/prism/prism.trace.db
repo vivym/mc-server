@@ -1,0 +1,6 @@
+2019-11-09 07:08:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRISM_RECORDS" not found; SQL statement:
+INSERT INTO prism_records(Created, EventName, WorldUuid, X, Y, Z, Target, Player, Cause) values(?, ?, ?, ?, ?, ?, ?, ?, ?) [42102-196]
+2019-11-09 07:08:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRISM_RECORDS" not found; SQL statement:
+INSERT INTO prism_records(Created, EventName, WorldUuid, X, Y, Z, Target, Player, Cause) values(?, ?, ?, ?, ?, ?, ?, ?, ?) [42102-196]
