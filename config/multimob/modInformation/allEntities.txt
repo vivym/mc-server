@@ -165,12 +165,6 @@ astralsorcery:entityliquidspark
 astralsorcery:entityobservatoryhelper
 astralsorcery:entityshootingstar
 astralsorcery:entityitemdamageresistant
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:chest_passenger
-quark:gravisand
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -178,6 +172,11 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:seat
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -187,7 +186,8 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:seat
+quark:gravisand
+quark:chest_passenger
 avaritia:endest_pearl
 avaritia:gaping_void
 avaritia:heaven_arrow
@@ -1431,6 +1431,12 @@ customnpcs:customnpcprojectile
 opensecurity:opensecurity.energybolt
 opensecurity:opensecurity.nanofogswarm
 thermaldynamics:transport
+academy:entityblock
+academy:entitycointhrowing
+academy:entitymaghook
+academy:entitymdball
+academy:entitysilbarn
+academy:magmanipentityblock
 actuallyadditions:worm
 opencomputers:drone
 p455w0rdslib:sitting_entity
