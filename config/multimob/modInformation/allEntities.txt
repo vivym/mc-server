@@ -186,8 +186,8 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:gravisand
 quark:chest_passenger
+quark:gravisand
 avaritia:endest_pearl
 avaritia:gaping_void
 avaritia:heaven_arrow
@@ -381,9 +381,9 @@ thaumcraft:taintacletiny
 thaumcraft:taintswarm
 thaumcraft:taintseed
 thaumcraft:taintseedprime
+enderio:primed_charge
 enderio:owl_egg
 enderio:falling_machine
-enderio:primed_charge
 projecte:water_projectile
 projecte:lava_projectile
 projecte:mob_randomizer
